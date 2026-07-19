@@ -1,0 +1,6 @@
+{
+  "name": "Adika Karthik Portfolio",
+  "description": "A premium, world-class personal portfolio website for Adika Karthik, featuring interactive timelines, projects, skills, custom PDF resume compiler, and an integrated Google Gemini-powered AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
